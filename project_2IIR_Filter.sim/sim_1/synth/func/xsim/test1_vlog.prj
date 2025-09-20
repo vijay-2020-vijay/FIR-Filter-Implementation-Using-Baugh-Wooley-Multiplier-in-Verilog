@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../project_2IIR_Filter.srcs/sim_1/new/test1.v" \
+
+# Do not sort compile order
+nosort
